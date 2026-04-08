@@ -1405,3 +1405,12 @@
 [2026-04-08 16:07:39] [32MINFO[39M: 
  MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
 [2026-04-08 16:07:39] [32MINFO[39M: The backend is running on 3000
+[2026-04-08 16:41:21] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-08 16:41:21] [32MINFO[39M: The backend is running on 3000
+[2026-04-08 16:52:21] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-08 16:52:21] [32MINFO[39M: The backend is running on 3000
+[2026-04-08 17:04:59] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-08 17:04:59] [32MINFO[39M: The backend is running on 3000

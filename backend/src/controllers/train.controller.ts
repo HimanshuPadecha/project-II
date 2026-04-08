@@ -9,6 +9,9 @@ const searchTrainSchma = z.object({
   source: z.string(),
   destination: z.string(),
   date: z.string().optional(),
+  travelClass: z.string().optional(),
+  trainType: z.string().optional(),
+  availableBerth: z.boolean().optional(),
 });
 
 export const searchTrains = asyncHandler(
@@ -20,7 +23,7 @@ export const searchTrains = asyncHandler(
       throw new ApiError(400, `${result.error}`)
     }
 
-    const { source, destination, date } = result.data;
+    const { source, destination, date, travelClass, trainType, availableBerth } = result.data;
 
     if (!source || !destination) {
       throw new ApiError(400, "Source and destination are required");
@@ -33,11 +36,24 @@ export const searchTrains = asyncHandler(
     const sourceRegex = new RegExp(`${escapeRegExp(source)}`, "i");
     const destRegex = new RegExp(`${escapeRegExp(destination)}`, "i");
 
+    let searchDay: string | null = null;
+    if (date) {
+      const parsedDate = new Date(date);
+      if (!isNaN(parsedDate.getTime())) {
+        const dayMap = ["S", "M", "T", "W", "T", "F", "S"];
+        searchDay = dayMap[parsedDate.getDay()];
+      }
+    }
+
     // A train matches if it has BOTH stations AND the source's stopOrder < destination's stopOrder.
     // We use aggregation to accurately compare fields within the embedded stops array.
     const trains = await Train.aggregate([
       {
         $match: {
+          ...(searchDay ? { daysOfOperation: searchDay } : {}),
+          ...(trainType && trainType !== "ALL" ? { trainType: { $regex: new RegExp(escapeRegExp(trainType), "i") } } : {}),
+          ...(availableBerth ? { "classes.availableSeats": { $gt: 0 } } : {}),
+          ...(travelClass && travelClass !== "ALL" ? { "classes.className": { $regex: new RegExp(escapeRegExp(travelClass), "i") } } : {}),
           $or: [
             // Legacy direct match for trains that haven't seeded stops yet
             {
