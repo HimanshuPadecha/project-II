@@ -1,0 +1,5 @@
+[2025-05-15 14:54:33] ERROR: Thu May 15 2025 14:54:33 GMT+0530 (India Standard Time) The backend is running on 3000
+[2025-05-15 14:54:48] ERROR:  The backend is running on 3000
+[2025-05-15 14:54:49] ERROR: The backend is running on 3000
+[2026-04-05 12:56:59] [31MERROR[39M: MONGODB connection FAILED  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+[2026-04-05 12:59:45] [31MERROR[39M: MONGODB connection FAILED  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/

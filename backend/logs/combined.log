@@ -1,0 +1,1407 @@
+[2025-05-15 14:53:50] INFO: Thu May 15 2025 14:53:50 GMT+0530 (India Standard Time) The backend is running on 3000
+[2025-05-15 14:54:33] ERROR: Thu May 15 2025 14:54:33 GMT+0530 (India Standard Time) The backend is running on 3000
+[2025-05-15 14:54:48] ERROR:  The backend is running on 3000
+[2025-05-15 14:54:49] ERROR: The backend is running on 3000
+[2025-05-15 14:54:57] INFO: The backend is running on 3000
+[2025-05-15 14:58:09] INFO: The backend is running on 3000
+[2025-05-15 14:58:14] INFO: The backend is running on 3000
+[2025-05-15 14:58:40] INFO: The backend is running on 3000
+[2025-05-15 14:58:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 14:59:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 14:59:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 14:59:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 14:59:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 14:59:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:06:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:06:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:06:54] [32MINFO[39M: The database is string ispostgresql://chat-app_owner:npg_YSqVN1DvuB9i@ep-small-lab-a47ja4hb-pooler.us-east-1.aws.neon.tech/chat-app?sslmode=require
+[2025-05-15 15:06:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:07:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:07:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:13:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:14:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:59:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-15 15:59:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:22:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:24:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 09:25:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:00:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:05:14] [32MINFO[39M: The backend is running on undefined
+[2025-05-16 10:05:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:08:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:08:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:08:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:09:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:09:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:14:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:14:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:14:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:14:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:14:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:15:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:16:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:16:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:16:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:16:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:16:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:17:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 10:18:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:34:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:34:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:34:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:35:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:36:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:36:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:37:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:38:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:39:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:40:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:41:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:42:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:46:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:46:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:46:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:47:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-16 14:48:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:47:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:49:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:49:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:51:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:55:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:57:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 09:57:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:02:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:03:30] [32MINFO[39M: https://res.cloudinary.com/himanshupadecha/image/upload/v1747456415/skjw2emfrxin9ul9pf2o.jpg
+[2025-05-17 10:06:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:06:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:08:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:08:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:08:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:08:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:08:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:09:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:09:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:09:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:09:34] [32MINFO[39M: [object Object]
+[2025-05-17 10:10:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:10:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:10:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:10:15] [32MINFO[39M: [object Object]
+[2025-05-17 10:10:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:10:39] [32MINFO[39M: undefined
+[2025-05-17 10:11:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:11:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:11:11] [32MINFO[39M: undefined
+[2025-05-17 10:11:11] [32MINFO[39M: undefined
+[2025-05-17 10:11:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:11:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:12:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:12:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:13:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:13:03] [32MINFO[39M: Reached
+[2025-05-17 10:13:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:13:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:13:32] [32MINFO[39M: Reached
+[2025-05-17 10:13:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:13:40] [32MINFO[39M: Reached
+[2025-05-17 10:13:40] [32MINFO[39M: reached
+[2025-05-17 10:13:40] [32MINFO[39M: [object Object]
+[2025-05-17 10:14:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:14:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:14:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:14:48] [32MINFO[39M: Reached
+[2025-05-17 10:14:48] [32MINFO[39M: reached
+[2025-05-17 10:14:48] [32MINFO[39M: [object Object]
+[2025-05-17 10:15:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:15:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:15:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:15:46] [32MINFO[39M: Reached
+[2025-05-17 10:15:46] [32MINFO[39M: reached
+[2025-05-17 10:15:46] [32MINFO[39M: [object Object]
+[2025-05-17 10:19:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:19:59] [32MINFO[39M: Reached
+[2025-05-17 10:19:59] [32MINFO[39M: reached
+[2025-05-17 10:19:59] [32MINFO[39M: [object Object]
+[2025-05-17 10:26:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:27:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:28:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:28:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:28:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:28:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 10:29:01] [32MINFO[39M: Reached
+[2025-05-17 10:29:01] [32MINFO[39M: reached
+[2025-05-17 10:29:01] [32MINFO[39M: [object Object]
+[2025-05-17 10:36:07] [32MINFO[39M: users seeded successfully
+[2025-05-17 10:42:43] [32MINFO[39M: users seeded successfully
+[2025-05-17 10:55:39] [32MINFO[39M: messages seeded successfully
+[2025-05-17 11:01:12] [32MINFO[39M: seeded message no : 1
+[2025-05-17 11:01:13] [32MINFO[39M: seeded message no : 2
+[2025-05-17 11:01:13] [32MINFO[39M: seeded message no : 3
+[2025-05-17 11:01:14] [32MINFO[39M: seeded message no : 4
+[2025-05-17 11:01:15] [32MINFO[39M: seeded message no : 5
+[2025-05-17 11:01:16] [32MINFO[39M: seeded message no : 6
+[2025-05-17 11:01:17] [32MINFO[39M: seeded message no : 7
+[2025-05-17 11:01:18] [32MINFO[39M: seeded message no : 8
+[2025-05-17 11:01:19] [32MINFO[39M: seeded message no : 9
+[2025-05-17 11:01:20] [32MINFO[39M: seeded message no : 10
+[2025-05-17 11:01:22] [32MINFO[39M: seeded message no : 11
+[2025-05-17 11:01:22] [32MINFO[39M: seeded message no : 12
+[2025-05-17 11:01:23] [32MINFO[39M: seeded message no : 13
+[2025-05-17 11:01:25] [32MINFO[39M: seeded message no : 14
+[2025-05-17 11:01:26] [32MINFO[39M: seeded message no : 15
+[2025-05-17 11:01:26] [32MINFO[39M: seeded message no : 16
+[2025-05-17 11:01:28] [32MINFO[39M: seeded message no : 17
+[2025-05-17 11:01:29] [32MINFO[39M: seeded message no : 18
+[2025-05-17 11:01:30] [32MINFO[39M: seeded message no : 19
+[2025-05-17 11:01:31] [32MINFO[39M: seeded message no : 20
+[2025-05-17 11:01:32] [32MINFO[39M: seeded message no : 21
+[2025-05-17 11:01:33] [32MINFO[39M: seeded message no : 22
+[2025-05-17 11:01:34] [32MINFO[39M: seeded message no : 23
+[2025-05-17 11:01:35] [32MINFO[39M: seeded message no : 24
+[2025-05-17 11:01:36] [32MINFO[39M: seeded message no : 25
+[2025-05-17 11:01:37] [32MINFO[39M: seeded message no : 26
+[2025-05-17 11:01:38] [32MINFO[39M: seeded message no : 27
+[2025-05-17 11:01:39] [32MINFO[39M: seeded message no : 28
+[2025-05-17 11:01:40] [32MINFO[39M: seeded message no : 29
+[2025-05-17 11:01:41] [32MINFO[39M: seeded message no : 30
+[2025-05-17 11:01:42] [32MINFO[39M: seeded message no : 31
+[2025-05-17 11:01:43] [32MINFO[39M: seeded message no : 32
+[2025-05-17 11:01:44] [32MINFO[39M: seeded message no : 33
+[2025-05-17 11:01:45] [32MINFO[39M: seeded message no : 34
+[2025-05-17 11:01:46] [32MINFO[39M: seeded message no : 35
+[2025-05-17 11:01:47] [32MINFO[39M: seeded message no : 36
+[2025-05-17 11:01:48] [32MINFO[39M: seeded message no : 37
+[2025-05-17 11:01:49] [32MINFO[39M: seeded message no : 38
+[2025-05-17 11:01:50] [32MINFO[39M: seeded message no : 39
+[2025-05-17 11:01:51] [32MINFO[39M: seeded message no : 40
+[2025-05-17 11:01:52] [32MINFO[39M: seeded message no : 41
+[2025-05-17 11:01:53] [32MINFO[39M: seeded message no : 42
+[2025-05-17 11:01:54] [32MINFO[39M: seeded message no : 43
+[2025-05-17 11:01:55] [32MINFO[39M: seeded message no : 44
+[2025-05-17 11:01:56] [32MINFO[39M: seeded message no : 45
+[2025-05-17 11:01:57] [32MINFO[39M: seeded message no : 46
+[2025-05-17 11:01:58] [32MINFO[39M: seeded message no : 47
+[2025-05-17 11:01:59] [32MINFO[39M: seeded message no : 48
+[2025-05-17 11:02:00] [32MINFO[39M: seeded message no : 49
+[2025-05-17 11:02:01] [32MINFO[39M: seeded message no : 50
+[2025-05-17 11:06:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:06:12] [32MINFO[39M: Reached
+[2025-05-17 11:06:12] [32MINFO[39M: reached
+[2025-05-17 11:06:12] [32MINFO[39M: [object Object]
+[2025-05-17 11:10:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:12:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:12:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:12:33] [32MINFO[39M: [object Object]
+[2025-05-17 11:13:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:13:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:13:31] [32MINFO[39M: reached to middleware
+[2025-05-17 11:13:31] [32MINFO[39M: [object Object]
+[2025-05-17 11:14:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:14:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-17 11:14:16] [32MINFO[39M: reached to middleware
+[2025-05-17 11:14:16] [32MINFO[39M: [object Object]
+[2025-05-17 11:14:18] [32MINFO[39M: reached to controller
+[2025-05-19 09:13:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:13:44] [32MINFO[39M: reached to middleware
+[2025-05-19 09:13:44] [32MINFO[39M: [object Object]
+[2025-05-19 09:14:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:14:49] [32MINFO[39M: Reached
+[2025-05-19 09:14:49] [32MINFO[39M: reached
+[2025-05-19 09:14:49] [32MINFO[39M: [object Object]
+[2025-05-19 09:15:01] [32MINFO[39M: reached to middleware
+[2025-05-19 09:15:01] [32MINFO[39M: [object Object]
+[2025-05-19 09:15:04] [32MINFO[39M: reached to controller
+[2025-05-19 09:17:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:17:46] [32MINFO[39M: The errors are empty
+[2025-05-19 09:17:46] [32MINFO[39M: reached to middleware
+[2025-05-19 09:17:46] [32MINFO[39M: [object Object]
+[2025-05-19 09:17:48] [32MINFO[39M: reached to controller
+[2025-05-19 09:19:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:22:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:22:27] [32MINFO[39M: The errors are empty
+[2025-05-19 09:22:27] [32MINFO[39M: reached to middleware
+[2025-05-19 09:22:30] [32MINFO[39M: reached to controller
+[2025-05-19 09:22:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:22:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:23:43] [32MINFO[39M: 
+[2025-05-19 09:24:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:24:11] [32MINFO[39M: [object Object]
+[2025-05-19 09:24:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:26:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:27:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:27:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:27:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:28:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:28:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:28:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:28:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:29:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:29:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:29:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:30:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:31:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:34:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:37:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:39:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:40:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:41:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:41:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:42:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:42:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:42:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:42:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:42:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:52:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:53:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:54:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:54:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:54:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:55:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:55:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:55:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:55:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:57:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:58:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:58:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:58:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:58:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:59:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 09:59:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:01:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:01:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:02:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:07:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:12:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:13:18] [32MINFO[39M: Reached
+[2025-05-19 10:13:18] [32MINFO[39M: reached
+[2025-05-19 10:13:18] [32MINFO[39M: [object Object]
+[2025-05-19 10:14:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:14:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:14:31] [32MINFO[39M: Reached
+[2025-05-19 10:14:31] [32MINFO[39M: reached
+[2025-05-19 10:14:31] [32MINFO[39M: [object Object]
+[2025-05-19 10:24:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:24:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:24:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:24:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:25:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:25:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:25:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:25:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:26:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:26:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:26:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:31:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 10:31:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:17:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:19:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:20:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:21:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:22:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:22:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:22:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:22:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:22:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:24:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:24:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:25:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:28:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:30:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:31:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:32:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:34:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:36:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:36:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:36:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:38:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:39:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:39:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:39:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:39:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:40:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:40:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:40:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:42:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:42:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:42:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:43:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:44:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:44:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:44:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:45:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:45:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:45:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:46:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:47:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:47:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:47:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:47:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:48:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:49:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-19 11:50:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:36:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:36:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:36:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:36:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:36:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:37:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:37:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:37:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:47:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:49:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:49:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:50:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 09:50:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:05:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:12:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:13:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:14:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:15:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:19:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:19:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:19:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:19:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:19:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:20:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:20:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:20:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:20:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:21:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:22:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:23:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:24:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:25:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:26:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:27:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:28:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:29:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:29:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:29:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:29:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:29:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:30:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:31:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:32:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:32:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:33:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:34:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:35:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:35:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:35:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:35:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:35:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:36:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:36:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:36:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:36:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:37:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:37:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:38:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:39:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:41:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:43:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:43:19] [32MINFO[39M: Reached
+[2025-05-21 10:43:19] [32MINFO[39M: reached
+[2025-05-21 10:43:19] [32MINFO[39M: [object Object]
+[2025-05-21 10:44:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:44:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:45:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 10:47:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:00:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:00:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:00:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:01:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:02:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:02:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:02:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:03:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:03:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:03:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:04:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:04:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:04:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:05:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:06:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:16:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:16:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:16:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:17:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:18:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:18:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:18:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:19:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:20:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:21:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:21:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:21:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:22:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:23:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:24:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:24:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:25:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:25:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:25:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:26:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:26:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:27:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:28:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:29:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:30:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:30:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:30:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:30:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:30:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:32:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:32:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:32:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:32:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:34:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:34:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:35:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:36:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:37:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:37:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:37:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:37:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:37:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:38:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:39:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:40:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 11:40:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:34:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:36:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:36:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:37:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:37:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:39:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:39:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:39:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:39:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:39:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:40:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:46:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:47:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:48:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:49:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:50:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:51:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:52:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:53:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:53:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:53:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:53:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:54:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:54:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:54:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:55:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:56:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:56:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:56:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:57:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 16:58:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:01:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:01:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:01:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:02:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:02:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-21 17:02:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 08:53:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 16:54:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:09:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:09:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:09:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:09:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:21:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:22:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:22:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:24:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:24:50] [32MINFO[39M: [object Object]
+[2025-05-22 17:25:01] [32MINFO[39M: [object Object]
+[2025-05-22 17:25:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:41] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:42] [32MINFO[39M: [object Object]
+[2025-05-22 17:26:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:26:57] [32MINFO[39M: [object Object]
+[2025-05-22 17:27:04] [32MINFO[39M: [object Object]
+[2025-05-22 17:27:10] [32MINFO[39M: [object Object]
+[2025-05-22 17:27:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:27:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:28:14] [32MINFO[39M: [object Object]
+[2025-05-22 17:28:23] [32MINFO[39M: [object Object]
+[2025-05-22 17:28:28] [32MINFO[39M: [object Object]
+[2025-05-22 17:28:55] [32MINFO[39M: [object Object]
+[2025-05-22 17:29:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:29:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-22 17:31:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:53:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:54:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:55:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 08:56:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:02:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:02:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:02:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:02:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:14:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:14:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:14:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:28:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:32:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:32:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:32:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:33:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:37:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:37:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:37:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:38:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:39:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:40:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:40:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:40:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:41:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:48:20] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:48:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:48:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:48:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:49:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:15] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:52:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:53:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:54:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:54:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:54:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:58:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:58:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:58:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:58:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 09:59:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:00:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:00:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:00:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:00:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:01:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:01:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:01:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:01:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:02:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:12] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:03:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:04:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:04:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:04:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:04:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:04:52] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:18:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:18:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:18:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:18:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:31] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:47] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:21:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:22:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:23:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:24:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:24:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:24:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:25:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:26:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:26:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:26:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:26:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:27:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:27:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:27:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:27:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:27:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:01] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:28:40] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:33:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:35:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:35:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:36:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:36:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:36:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:36:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:36:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:37:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:37:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:37:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:37:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:37:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:38:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:38:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:38:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 10:38:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-23 15:35:00] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 11:26:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 15:11:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 16:53:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 16:54:05] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 16:54:07] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 16:54:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 16:54:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-24 17:04:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:11:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:25:24] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:25:28] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:43:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:43:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:45:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:46:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:46:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:46:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:51:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:13] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:52:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:32] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:42] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:54:46] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:56:50] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:57:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:59:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 09:59:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:00:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:00:23] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:00:25] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:09:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:09:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:16:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:16:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:16:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:16:49] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:17:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:18:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:18:09] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:20:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:22:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:36] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:53] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:54] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:30:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:14] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:22] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:27] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:31:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:37:11] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 10:41:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 11:26:29] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 11:26:30] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 11:26:35] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 11:26:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-26 11:26:39] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 10:50:33] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 10:55:18] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:08] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:51] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:57] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:26:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:04] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:56] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:58] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:27:59] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:06] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:10] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:16] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:19] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:37] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:38] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:43] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:44] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:48] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:28:55] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:29:03] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:29:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:29:26] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:29:34] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:29:45] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:40:17] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 11:42:21] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 18:05:02] [32MINFO[39M: The backend is running on 3000
+[2025-05-30 18:19:44] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:03:49] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:03:49] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:11:07] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:11:07] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:11:08] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:11:08] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:11:23] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:11:23] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:12:03] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:12:03] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:12:07] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:12:07] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:23:35] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:23:35] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:23:43] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:23:43] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:24:50] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:24:50] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:24:56] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:24:56] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:25:00] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:25:00] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:25:07] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:25:07] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:26:21] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:26:21] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:06] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:27:07] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:16] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:27:16] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:21] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:27:21] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:23] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:27:23] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:31] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 11:27:31] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:55] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:27:55] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:27:59] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:27:59] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:28:04] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:28:04] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:28:07] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:28:07] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:28:12] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:28:12] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:28:25] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:28:25] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:28:31] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:28:31] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:30:09] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 11:30:09] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:31:19] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:31:19] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 11:31:47] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 11:31:47] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 12:56:59] [31MERROR[39M: MONGODB connection FAILED  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+[2026-04-05 12:59:45] [31MERROR[39M: MONGODB connection FAILED  Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+[2026-04-05 13:03:36] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 13:03:36] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:09:44] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 13:09:44] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:22:10] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 13:22:10] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:24:47] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 13:24:47] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:35:27] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 13:35:27] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:43:16] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 13:43:16] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 13:59:46] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 13:59:46] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:00:12] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 14:00:12] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:00:47] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 14:00:47] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:01:10] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 14:01:10] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:01:27] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 14:01:27] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:01:48] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 14:01:48] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 14:10:54] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 14:10:54] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 15:27:42] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 15:27:42] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 18:40:16] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 18:40:16] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:19:12] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 19:19:12] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:19:13] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 19:19:13] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:19:15] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 19:19:15] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:32:23] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 19:32:23] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:32:25] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 19:32:25] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:39:52] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 19:39:52] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:40:00] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 19:40:00] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:40:02] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 19:40:02] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:40:05] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 19:40:05] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:40:12] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-02.f6jbjxn.mongodb.net
+[2026-04-05 19:40:12] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:58:32] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 19:58:32] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:59:06] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-05 19:59:06] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 19:59:15] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 19:59:15] [32MINFO[39M: The backend is running on 3000
+[2026-04-05 20:11:24] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-00.f6jbjxn.mongodb.net
+[2026-04-05 20:11:24] [32MINFO[39M: The backend is running on 3000
+[2026-04-08 16:07:39] [32MINFO[39M: 
+ MongoDB connected !! DB HOST: ac-4jugjt5-shard-00-01.f6jbjxn.mongodb.net
+[2026-04-08 16:07:39] [32MINFO[39M: The backend is running on 3000
