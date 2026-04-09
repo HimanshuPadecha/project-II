@@ -11,6 +11,11 @@ import Signup from "./Signup";
 import ProtectedRoute from "./components/ProtectedRoute";
 import GuestRoute from "./components/GuestRoute";
 
+// Additional Pages
+import ContactUs from "./ContactUs";
+import AboutUs from "./AboutUs";
+import FAQ from "./FAQ";
+
 function App() {
   return (
     <Router>
@@ -20,6 +25,9 @@ function App() {
           {/* Public Routes */}
           <Route path="/" element={<Home />} />
           <Route path="/train-availability" element={<TrainAvailability />} />
+          <Route path="/contact" element={<ContactUs />} />
+          <Route path="/about" element={<AboutUs />} />
+          <Route path="/faq" element={<FAQ />} />
 
           {/* Guest Only Routes (Not Accessible if logged in) */}
           <Route

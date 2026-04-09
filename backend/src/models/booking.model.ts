@@ -24,6 +24,7 @@ export interface IBooking extends Document {
     totalAmount: number;
   };
   status: "PENDING" | "CONFIRMED" | "CANCELLED";
+  dateOfJourney: Date;
   createdAt: Date;
   updatedAt: Date;
 }
@@ -74,6 +75,11 @@ const BookingSchema: Schema<IBooking> = new Schema(
       type: String,
       enum: ["PENDING", "CONFIRMED", "CANCELLED"],
       default: "CONFIRMED",
+    },
+    dateOfJourney: {
+      type: Date,
+      required: true,
+      default: Date.now,
     },
   },
   {

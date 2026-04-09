@@ -8,6 +8,7 @@ declare global {
     namespace Express {
       interface Request {
         user?: userInterface;
+        admin?: import('./models/admin.model').IAdmin;
       }
     }
   }

@@ -40,9 +40,10 @@ const Navbar: React.FC = () => {
   const navItems = [
     { name: "Home", path: "/" },
     { name: "Availability", path: "/train-availability" },
-    { name: "Fare", path: "/passenger-fare" },
-    { name: "Payment", path: "/payment" },
-    { name: "Confirm", path: "/booking-confirmation" },
+    { name: "About Us", path: "/about" },
+    { name: "FAQ", path: "/faq" },
+    { name: "Contact", path: "/contact" },
+    { name: "Bookings", path: "/booking-confirmation" },
   ];
 
   return (

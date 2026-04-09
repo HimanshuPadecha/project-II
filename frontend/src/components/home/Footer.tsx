@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const Footer: React.FC = () => {
   return (
@@ -22,15 +23,15 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="flex gap-12 text-sm text-slate-400">
-          <div className="space-y-2">
-            <h5 className="text-white font-semibold">Support</h5>
-            <p className="hover:text-primary cursor-pointer">Help Center</p>
-            <p className="hover:text-primary cursor-pointer">Contact Us</p>
+          <div className="space-y-2 flex flex-col">
+            <h5 className="text-white font-semibold mb-2">Support</h5>
+            <Link to="/faq" className="hover:text-primary transition-colors cursor-pointer py-1">Help / FAQ</Link>
+            <Link to="/contact" className="hover:text-primary transition-colors cursor-pointer py-1">Contact Us</Link>
           </div>
-          <div className="space-y-2">
-            <h5 className="text-white font-semibold">Legal</h5>
-            <p className="hover:text-primary cursor-pointer">Terms of Service</p>
-            <p className="hover:text-primary cursor-pointer">Privacy Policy</p>
+          <div className="space-y-2 flex flex-col">
+            <h5 className="text-white font-semibold mb-2">About</h5>
+            <Link to="/about" className="hover:text-primary transition-colors cursor-pointer py-1">About Us</Link>
+            <Link to="/" className="hover:text-primary transition-colors cursor-pointer py-1">Home</Link>
           </div>
         </div>
 
