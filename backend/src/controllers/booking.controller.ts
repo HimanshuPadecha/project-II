@@ -14,7 +14,7 @@ export const getPnrStatus = asyncHandler(async (req: Request, res: Response) => 
 
   // Populate train details so frontend gets a rich PNR response
   const booking = await Booking.findOne({ pnrNumber })
-    .populate("train", "trainName trainNumber source destination departureTime arrivalTime")
+    .populate("train", "trainName trainNumber source destination departureTime arrivalTime route")
     .populate("user", "username email");
 
   if (!booking) {
@@ -22,6 +22,19 @@ export const getPnrStatus = asyncHandler(async (req: Request, res: Response) => 
   }
 
   return res.status(200).json(new ApiResonse(200, booking, "PNR status fetched successfully"));
+});
+
+export const getMyBookings = asyncHandler(async (req: Request, res: Response) => {
+  const user = req.user;
+  if (!user) {
+    throw new ApiError(401, "Not authenticated");
+  }
+
+  const bookings = await Booking.find({ user: user._id })
+    .sort({ createdAt: -1 })
+    .populate("train", "trainName trainNumber source destination departureTime arrivalTime route");
+
+  return res.status(200).json(new ApiResonse(200, bookings, "User bookings fetched successfully"));
 });
 
 

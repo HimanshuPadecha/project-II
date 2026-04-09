@@ -105,12 +105,12 @@ const RecentSearches: React.FC = () => {
               >
                 <p className="text-xs text-slate-500 font-bold mb-1">{formattedDate}</p>
                 <div className="flex items-center justify-between">
-                  <span className="font-bold truncate" title={search.source}>{search.source.split(' ')[0]}</span>
-                  <span className="material-icons text-sm text-slate-600 mx-2">arrow_forward</span>
-                  <span className="font-bold truncate" title={search.destination}>{search.destination.split(' ')[0]}</span>
+                  <span className="font-bold truncate" title={search.source}>{search.source}</span>
+                  <span className="material-icons text-sm text-slate-600 mx-2 min-w-4 flex-shrink-0">arrow_forward</span>
+                  <span className="font-bold truncate" title={search.destination}>{search.destination}</span>
                 </div>
                 <p className="text-[10px] text-slate-400 mt-2 truncate" title={`${search.source} to ${search.destination}`}>
-                  {search.source.split(' ')[0]} to {search.destination.split(' ')[0]}
+                  {search.source} to {search.destination}
                 </p>
               </div>
             );
