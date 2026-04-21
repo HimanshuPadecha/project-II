@@ -18,7 +18,7 @@ export const createOrder = asyncHandler(async (req: Request, res: Response) => {
   }
 
   const options = {
-    amount: amount * 100, // amount in the smallest currency unit
+    amount: Math.round(amount * 100), // amount in the smallest currency unit as integer
     currency,
     receipt: `receipt_order_${Date.now()}`,
   };
@@ -31,7 +31,9 @@ export const createOrder = asyncHandler(async (req: Request, res: Response) => {
 
     return res.status(200).json(new ApiResonse(200, order, "Order created successfully"));
   } catch (error: any) {
-    throw new ApiError(500, error.message || "Error creating Razorpay order");
+    console.error("Razorpay Error:", error);
+    const detailedMessage = error?.error?.description || error.message || JSON.stringify(error) || "Error creating Razorpay order";
+    throw new ApiError(500, detailedMessage);
   }
 });
 

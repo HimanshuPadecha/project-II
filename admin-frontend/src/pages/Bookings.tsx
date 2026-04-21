@@ -48,14 +48,14 @@ export const Bookings: React.FC = () => {
                   <tr key={booking._id} className="hover:bg-white/5 transition-colors">
                     <td className="p-4 font-mono text-slate-400">{booking.pnrNumber || booking._id}</td>
                     <td className="p-4 font-semibold text-slate-100">{booking.user?.username || 'Unknown'}</td>
-                    <td className="p-4 text-slate-200">{booking.trainNumber}</td>
+                    <td className="p-4 text-slate-200">{booking.train?.trainNumber || booking.train || 'N/A'}</td>
                     <td className="p-4">
-                      <span className={`px-2 py-1 rounded-md text-xs font-semibold ${booking.bookingStatus === 'CONFIRMED' ? 'bg-green-500/10 text-green-500' : 'bg-red-500/10 text-red-500'}`}>
-                        {booking.bookingStatus}
+                      <span className={`px-2 py-1 rounded-md text-xs font-semibold ${booking.status === 'CONFIRMED' ? 'bg-green-500/10 text-green-500' : booking.status === 'PENDING' ? 'bg-amber-500/10 text-amber-500' : 'bg-red-500/10 text-red-500'}`}>
+                        {booking.status || 'UNKNOWN'}
                       </span>
                     </td>
                     <td className="p-4 text-slate-400">{new Date(booking.dateOfJourney).toLocaleDateString()}</td>
-                    <td className="p-4 font-semibold text-primary">₹{booking.totalFare}</td>
+                    <td className="p-4 font-semibold text-primary">₹{booking.fareBreakdown?.totalAmount?.toFixed(2) || '0.00'}</td>
                   </tr>
                 ))
               )}

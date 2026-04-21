@@ -83,8 +83,8 @@ export const getAllUsers = asyncHandler(async (req: Request, res: Response) => {
 });
 
 export const getAllBookings = asyncHandler(async (req: Request, res: Response) => {
-  // Populate the associated user explicitly if needed
-  const bookings = await Booking.find().populate("user", "username email");
+  // Populate the associated user and train explicitly
+  const bookings = await Booking.find().populate("user", "username email").populate("train", "trainNumber trainName source destination");
   return res.status(200).json(new ApiResonse(200, bookings, "Bookings fetched successfully"));
 });
 

@@ -11,6 +11,7 @@ const itemVariants: Variants = {
 
 const TrainCard = ({ train }: { train: any }) => {
   const [selectedClass, setSelectedClass] = useState(train.classes?.[0]?.className || '');
+  const [showRoute, setShowRoute] = useState(false);
   const navigate = useNavigate();
   
   const isSuperfast = train.trainType === 'SUPERFAST' || train.trainType === 'RAJDHANI' || train.trainType === 'DURONTO';
@@ -56,7 +57,7 @@ const TrainCard = ({ train }: { train: any }) => {
                 <div className="absolute -top-1 right-0 w-2 h-2 rounded-full bg-primary"></div>
                 <span className={`material-icons absolute left-1/2 -translate-x-1/2 -top-3 ${isSuperfast ? 'text-primary' : 'text-slate-400'} text-lg`}>{isSuperfast ? 'electric_bolt' : 'train'}</span>
               </div>
-              <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1">{(train.route?.length > 2) ? `${train.route.length - 2} Stops` : 'Non-stop'}</p>
+              <p className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mt-1">{(train.stops?.length > 2) ? `${train.stops.length - 2} Stops` : 'Non-stop'}</p>
             </div>
             <div className="text-center">
               <p className="text-2xl font-bold">{train.arrivalTime}</p>
@@ -90,6 +91,40 @@ const TrainCard = ({ train }: { train: any }) => {
             );
           })}
         </div>
+        
+        {/* Route Timeline Expandable */}
+        {showRoute && train.stops && train.stops.length > 0 && (
+          <motion.div 
+            initial={{ height: 0, opacity: 0, marginTop: 0 }}
+            animate={{ height: "auto", opacity: 1, marginTop: 24 }}
+            className="pt-6 border-t border-slate-200 dark:border-slate-800"
+          >
+            <h4 className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6">Train Route</h4>
+            <div className="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-6 pb-2">
+              {train.stops.sort((a: any, b: any) => a.stopOrder - b.stopOrder).map((stop: any, index: number) => (
+                <div key={index} className="relative pl-6">
+                  {/* Timeline Dot */}
+                  <div className={`absolute -left-[9px] top-1.5 w-4 h-4 rounded-full border-4 border-white dark:border-slate-900 ${index === 0 || index === train.stops.length - 1 ? 'bg-primary' : 'bg-slate-400 dark:bg-slate-600'}`}></div>
+                  
+                  <div className="grid grid-cols-12 gap-4 text-sm">
+                    <div className="col-span-6 md:col-span-4 font-bold text-slate-700 dark:text-slate-200">
+                      {stop.stationName}
+                      <p className="text-xs font-normal text-slate-400 truncate">Stop {stop.stopOrder}</p>
+                    </div>
+                    <div className="col-span-3 text-center md:text-left">
+                      <span className="text-slate-500 text-xs uppercase hidden md:inline-block md:mr-2">Arr</span>
+                      <span className="font-semibold text-slate-800 dark:text-slate-300">{stop.arrivalTime}</span>
+                    </div>
+                    <div className="col-span-3 text-center md:text-left">
+                      <span className="text-slate-500 text-xs uppercase hidden md:inline-block md:mr-2">Dep</span>
+                      <span className="font-semibold text-slate-800 dark:text-slate-300">{stop.departureTime}</span>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </motion.div>
+        )}
       </div>
       
       <div className="bg-slate-50 dark:bg-slate-800/50 p-4 border-t border-slate-200 dark:border-slate-800 flex justify-between items-center">
@@ -98,9 +133,12 @@ const TrainCard = ({ train }: { train: any }) => {
             <span className="material-icons text-sm">history</span>
             Probablity
           </button>
-          <button className="text-xs font-bold text-slate-400 flex items-center gap-1 hover:text-slate-200">
-            <span className="material-icons text-sm">route</span>
-            View Route
+          <button 
+            onClick={() => setShowRoute(!showRoute)}
+            className={`text-xs font-bold flex items-center gap-1 transition-colors ${showRoute ? 'text-primary' : 'text-slate-400 hover:text-slate-200'}`}
+          >
+            <span className="material-icons text-sm">{showRoute ? 'expand_less' : 'route'}</span>
+            {showRoute ? 'Hide Route' : 'View Route'}
           </button>
         </div>
         <button onClick={handleBookNow} className="bg-primary hover:bg-primary/90 text-white px-10 py-3 rounded-lg font-bold shadow-lg shadow-primary/20 transition-all active:scale-95">
