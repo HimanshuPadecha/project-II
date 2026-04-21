@@ -25,10 +25,16 @@ export const adminSignup = asyncHandler(async (req: Request, res: Response) => {
   }
 
   const { username, password } = result.data;
-  const alreadyExist = await Admin.findOne({ username });
+  const emailInput = req.body.email || `${username}@admin.com`;
 
+  const alreadyExist = await Admin.findOne({ username });
   if (alreadyExist) {
     throw new ApiError(401, "Admin username already exists");
+  }
+
+  const emailExist = await Admin.findOne({ email: emailInput });
+  if (emailExist) {
+    throw new ApiError(401, "Admin email already exists");
   }
 
   const hashedPassword = await hashPassword(password);
@@ -36,7 +42,7 @@ export const adminSignup = asyncHandler(async (req: Request, res: Response) => {
   const admin = await Admin.create({
     password: hashedPassword,
     username,
-    email: req.body.email || `${username}@admin.com`,
+    email: emailInput,
   });
 
   return res.status(201).json(new ApiResonse(201, admin, "Admin created successfully"));
